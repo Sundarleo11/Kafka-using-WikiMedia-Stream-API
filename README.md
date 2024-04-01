@@ -1,4 +1,4 @@
-#Install Kafka’s binary file.
+Install Kafka’s binary file.
 Unzip it in C drive and rename the folder as kafka. Output: C:/kafka.
 Inside C:/kafka/config:
     Go to server.properties > Log basics > log.dirs=c:/kafka/kafka-logs
